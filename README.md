@@ -11,7 +11,7 @@ This Python script facilitates node reflection in LS-DYNA input files, providing
 
 **Run the Script:** Execute the script to generate a new LS-DYNA input file with reflected node coordinates.
 
-**Example**
+**Example:**
 
 ```python
 original_file_path = "plate_1.k"
